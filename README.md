@@ -14,7 +14,7 @@
 
 - 🤟 I am an Engineering student.
 
-- 🔭 I am an aspiring Full stack developer
+- 🔭 I am an aspiring Software Engineer
 
 - 😄 pronouns: He/Him
 
